@@ -74,7 +74,6 @@ table{
 }
 #quaylai {
     background-color: red;
-}
-#quaylai a:hover{
-    color: blue;
+    height: auto;
+    width: 100px;
 }
