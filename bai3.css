@@ -72,3 +72,9 @@ table{
 .image img:hover {
     opacity: 1; 
 }
+#quaylai {
+    background-color: red;
+}
+#quaylai a:hover{
+    color: blue;
+}
